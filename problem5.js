@@ -19,8 +19,6 @@ function gcd(a, b) {
 
 exports.smallestMult = function (n) {
   let maxLCM = 1;
-
-  //Getting the LCM in the range
   for (let i = 2; i <= n; i++) {
     maxLCM = lcm(maxLCM, i);
   }
