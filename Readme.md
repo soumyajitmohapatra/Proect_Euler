@@ -1,4 +1,4 @@
-## Project Euler 30days challenge
+## Project Euler 30-days Coding Challenge 🐜
 
 ### Day 1 (28feb 2021)
 
