@@ -13,7 +13,7 @@ exports.largestPalindromeProduct = function (n) {
 
     for(let i =max; i>min; i--){
         for(let j = max; j>min; j--){
-            let mul = j*i;
+            let mul = j*i
             if(isPalin(mul)){
                 arr.push(j * i)
             }

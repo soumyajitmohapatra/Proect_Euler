@@ -7,4 +7,4 @@
 3. [Largest prime factor](https://github.com/soumyajitmohapatra/Proect_Euler/blob/master/problem3.js)
 4. [Largest palindrome product](https://github.com/soumyajitmohapatra/Proect_Euler/blob/master/problem4.js)
 5. [Smallest multiple](https://github.com/soumyajitmohapatra/Proect_Euler/blob/master/problem5.js)
-6. [Sum square difference](https://github.com/soumyajitmohapatra/Proect_Euler/blob/master/problem5.js)
+6. [Sum square difference](https://github.com/soumyajitmohapatra/Proect_Euler/blob/master/problem6.js)

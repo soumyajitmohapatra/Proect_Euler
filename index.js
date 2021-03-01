@@ -5,7 +5,17 @@ const p2 = require("./problem2")
 p2.fiboEvenSum(60) //44 
 
 const p3 = require("./problem3")
-p3.largestPrimeFactor(13195 ); //29
+p3.largestPrimeFactor(13195 ) //29
 
 const p4 = require("./problem4")
-p4.largestPalindromeProduct(3); //906609
+p4.largestPalindromeProduct(3) //906609
+
+const p5 = require("./problem5")
+p5.smallestMult(7) //420
+
+
+const p6 = require("./problem6")
+p6.sumSquareDifference(100) //25164150
+
+const p7 = require("./problem7")
+p7.nthPrime(10001) //
