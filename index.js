@@ -19,3 +19,12 @@ p6.sumSquareDifference(100) //25164150
 
 const p7 = require("./problem7")
 p7.nthPrime(10001) //
+
+const p8 = require("./problem8")
+p8.largestProductinaSeries(4); 
+
+const p9 = require("./problem9")
+p9.specialPythagoreanTriplet(1000) // 31875000
+
+const p10 = require("./problem10")
+p10.primeSummation(17) //41
