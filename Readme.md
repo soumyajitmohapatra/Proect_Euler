@@ -12,8 +12,6 @@
 7. [nth prime number](https://github.com/soumyajitmohapatra/Proect_Euler/blob/master/problem7.js)
 8. [~~Largest product in a series~~](https://github.com/soumyajitmohapatra/Proect_Euler/blob/master/problem8.js)
 9. [Special Pythagorean triplet](https://github.com/soumyajitmohapatra/Proect_Euler/blob/master/problem9.js)
-<<<<<<< HEAD
-10. [Summation of primes](https://github.com/soumyajitmohapatra/Proect_Euler/blob/master/problem10.js)
-=======
 
->>>>>>> ade0420cb7a4e47e1253797ceb5fae386ec44137
+10. [Summation of primes](https://github.com/soumyajitmohapatra/Proect_Euler/blob/master/problem10.js)
+
