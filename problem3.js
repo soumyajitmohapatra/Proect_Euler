@@ -5,14 +5,14 @@
 // What is the largest prime factor of the given number?
 
 exports.largestPrimeFactor = function (n) {
-  let i=2;
+  let i=2
     while (i<=n){
     if (n%i == 0){
-        n/=i;    
+        n/=i    
     }else{
-        i++;
+        i++
     }
 }
-  return i;
+  return i
 }
 
